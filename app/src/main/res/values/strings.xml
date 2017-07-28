@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ukeuke</string>
+    <string name="title_activity_tuning">Tuning</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="freq_detected">Wykryta częstotliwość: </string>
+    <string name="note">Nuta: </string>
+    <string name="title_start">Ukulele\nTuner</string>
+</resources>
